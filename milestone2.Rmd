@@ -1,0 +1,27 @@
+---
+title: "Milestone 2"
+author: "Emmanuel Calivo"
+date: "9/21/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+###1. Newark Airport Flight Destinations (Henry Zhu)###
+
+I chose to look at this project because I'm interested in transportation issues and am thinking very seriously about doing a final project based on data acquired from public transportation agencies across America (and potentially, the world). Less seriously, I've also spent some very long hours stuck in the Newark Airport and would definitely like to know a bit more about how situations like mine come to pass. :)
+
+There are a few interesting things about this project. I like that the student made three different graphs, which allow us to draw different conclusions about various important observations/metrics (delays based on destination/airline, etc) from the same data. I also think the visuals are quite intuitive and easy for a reader to understand.
+
+At the same time, however, I do think this project could have gone a bit deeper. It appears they collected data from only one source (albeit a reliable one), which limits scope from a certain perspective. I also notice that there aren't any really deep observations that explore potential reasons why/how these delays accrue, making the three different graphs/sections rather surface-level in terms of conclusions. There is also no real discussion on the statistical implications of the data--something perhaps not emphasized in this class but certainly relevant to a potential reader's interest in a project like this one.
+
+###2. Miami Transportation Coverage (Sara Kvaska)
+
+Again, this project relates heavily to my interests in public transit and appears to be quite well done.
+
+As a map lover, I'm a big fan of the visuals used here. They appear to be quite advanced, allowing a user to interact visually with the data in a way that makes observations and conclusiosn visible and accessible. I also really like that in addition to the maps that allow us to explore Miami's transit system, there is a page that draws conclusions about ridership and coverage with a few major observations based on income and population. It also appears that the student gathered data from a variety of different sources, which perhaps allows the project's scope to be widened to cover different perspectives, sources, and ideas around the issue.
+
+That being said, as a non-Miamian with no knowledge of what the local routes are like or what parts of the city are generally considered to belong to different neighborhoods/cultural zones, it would have been nice to have some background info about the service and city in order to better help me navigate the maps of the city.
+
+
